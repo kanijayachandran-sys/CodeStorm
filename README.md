@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌐 Create Websites That Feel Alive  
+### Build the Future of the Web
 
-# Run and deploy your AI Studio app
+An innovative web project built for **CodeStorm 2026 – Month 2**, focused on creating next-generation web experiences that are interactive, dynamic, and engaging.  
+This project explores modern frontend techniques, real-time interactions, and intelligent UI behaviors to make websites feel *alive* rather than static.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/7a81886f-2072-4b3b-af30-a1bb52dc808d
+## 🚀 Project Overview
 
-## Run Locally
+This project aims to push the boundaries of traditional web design by building a modern, responsive, and immersive web experience.  
+It emphasizes:
 
-**Prerequisites:**  Node.js
+- Real-time interactivity  
+- Smooth animations and transitions  
+- User-centric design  
+- Performance and responsiveness  
+- Scalable architecture  
 
+The application demonstrates how modern web technologies can be combined to deliver fast, intelligent, and visually appealing experiences.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🎯 Hackathon Theme
+
+**Next-Generation Web Experiences**
+
+This project aligns with the CodeStorm Month 2 focus by showcasing:
+- Interactive websites  
+- Creative frontend experiments  
+- AI-powered or real-time web utilities  
+- Experimental and immersive UI concepts  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework / Library:** React / Next.js *(if applicable)*  
+- **Styling:** Tailwind CSS / CSS Animations  
+- **Animations:** Framer Motion / GSAP  
+- **AI Integration:** Google Gemini API *(secured via environment variables)*  
+- **Hosting:** Vercel / Netlify *(optional)*  
+
+---
+
+## ✨ Features
+
+- Dynamic and responsive UI  
+- Interactive components with real-time feedback  
+- Smooth animations and transitions  
+- Secure API integration using environment variables  
+- Clean and scalable project structure  
+
+---
+
+## 🔐 API Security Note
+
+All API keys (including AI APIs) are securely managed using environment variables and are **never exposed in frontend code or public repositories**, following best security practices.
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/kanijayachandran-sys/CodeStorm.git
+cd your-repo-name
+npm install
+npm run dev
