@@ -1,0 +1,6 @@
+{
+  "name": "CodeStorm 2026 Portal",
+  "description": "Interactive workspace, live physics engine, AI ideas, and team builders for CodeStorm 2026 Month 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
