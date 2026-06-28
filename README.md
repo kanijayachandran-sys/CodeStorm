@@ -64,6 +64,5 @@ All API keys (including AI APIs) are securely managed using environment variable
 
 ```bash
 git clone https://github.com/kanijayachandran-sys/CodeStorm.git
-cd your-repo-name
 npm install
 npm run dev
